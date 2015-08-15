@@ -28,7 +28,7 @@
     'description': """
 
     """,
-    'depends': ['better_zip','l10n_id_state'],
+    'depends': ['better_location','l10n_id_state'],
     'demo': [],
     'data': [   
                         'data/res.better.zip.csv',
