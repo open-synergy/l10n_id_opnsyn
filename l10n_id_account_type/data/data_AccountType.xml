@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record model="account.account.type" id="accountType_rootView">
+          <field name="name">View Root</field>
+          <field name="code">VIEW.ROOT</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_balanceSheetView">
+          <field name="name">View Balance Sheet</field>
+          <field name="code">VIEW.BALANCE.SHEET</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_profitLossView">
+          <field name="name">View Profit Loss</field>
+          <field name="code">VIEW.PROFIT.LOSS</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_asetView">
+          <field name="name">View Aset</field>
+          <field name="code">VIEW.ASET</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_kewajibanView">
+          <field name="name">View Kewajiban</field>
+          <field name="code">VIEW.KEWAJIBAN</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_ekuitasView">
+          <field name="name">View Ekuitas</field>
+          <field name="code">VIEW.EKUITAS</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pendapatanView">
+          <field name="name">View Pendapatan</field>
+          <field name="code">VIEW.PENDAPATAN</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_cogsView">
+          <field name="name">View COGS</field>
+          <field name="code">VIEW.COGS</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanOperasionalView">
+          <field name="name">View Beban Operasional</field>
+          <field name="code">VIEW.BEBAN.OPERASIONAL</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pendapatalDLLView">
+          <field name="name">View Pendapatan Lain-lain</field>
+          <field name="code">VIEW.PENDAPATAN.DLL</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanDLLView">
+          <field name="name">View Beban Lain-lain</field>
+          <field name="code">VIEW.BEBAN.DLL</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pendapatanBebanDLLView">
+          <field name="name">View Pendapatan/Beban Lain-lain</field>
+          <field name="code">VIEW.PENDAPATAN.BEBAN.DLL</field>
+          <field name="close_method">none</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_ayatSilang">
+          <field name="name">Ayat Silang</field>
+          <field name="code">AYAT.SILANG</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_kas">
+          <field name="name">Kas</field>
+          <field name="code">KAS</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bank">
+          <field name="name">Bank</field>
+          <field name="code">BANK</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_piutang">
+          <field name="name">Piutang Dagang</field>
+          <field name="code">PIUTANG.DAGANG</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_weselTagih">
+          <field name="name">Wesel Tagih</field>
+          <field name="code">WESEL.TAGIH</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_piutangLain">
+          <field name="name">Piutang Lain-lain</field>
+          <field name="code">PIUTANG.LAIN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_persediaan">
+          <field name="name">Persediaan</field>
+          <field name="code">PERSEDIAAN</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_investasiJangkaPendek">
+          <field name="name">Investasi Jangka Pendek</field>
+          <field name="code">INVESTASI.JANGKA.PENDEK</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_asetTetapBerwujud">
+          <field name="name">Aset Tetap Berwujud</field>
+          <field name="code">ASET.TETAP.BERWUJUD</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_asetTetapTidakBerwujud">
+          <field name="name">Aset Tetap Tidak Berwujud</field>
+          <field name="code">ASET.TETAP.TIDAK.BERWUJUD</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_asetTetapLainnya">
+          <field name="name">Aset Tetap Lainnya</field>
+          <field name="code">ASET.TETAP.LAINNYA</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_akPenyusutanAsetTetap">
+          <field name="name">Ak. Penyusutan Aset Tetap</field>
+          <field name="code">AK.PENY.ASET.TETAP</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaDibayarDimuka">
+          <field name="name">Biaya Dibayar Dimuka</field>
+          <field name="code">BIAYA.DIBAYAR.DIMUKA</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_uangMukaPembelian">
+          <field name="name">Uang Muka Pembelian</field>
+          <field name="code">UANG.MUKA.PEMBELIAN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_piutangPajak">
+          <field name="name">Piutang Pajak</field>
+          <field name="code">PIUTANG.PAJAK</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_depositPembelian">
+          <field name="name">Deposit Pembelian</field>
+          <field name="code">DEPOSIT.PEMBELIAN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">asset</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_utangDagang">
+          <field name="name">Utang Dagang</field>
+          <field name="code">UTANG.DAGANG</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_utangUpah">
+          <field name="name">Utang Upah</field>
+          <field name="code">UTANG.UPAH</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_utangPajak">
+          <field name="name">Utang Pajak</field>
+          <field name="code">UTANG.PAJAK</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_uangMukaPenjualan">
+          <field name="name">Uang Muka Penjualan</field>
+          <field name="code">UANG.MUKA.PENJUALAN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pendapatanDiterimaDimuka">
+          <field name="name">Utang Pendapatan Diterima Dimuka</field>
+          <field name="code">UTANG.PENDAPATAN.DITERIMA.DIMUKA</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_depositPelanggan">
+          <field name="name">Deposit Pelanggan</field>
+          <field name="code">DEPOSIT.PELANGGAN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_sewaDiterimaDimuka">
+          <field name="name">Sewa Diterima Dimuka</field>
+          <field name="code">SEWA.DITERIMA.DIMUKA</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pinjamanJangkaPanjang">
+          <field name="name">Pinjaman Jangka Panjang</field>
+          <field name="code">PINJAMAN.JANGKA.PANJANG</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pinjamanJangkaPendek">
+          <field name="name">Pinjaman Jangka Pendek</field>
+          <field name="code">PINJAMAN.JANGKA.PENDEK</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+
+        <record model="account.account.type" id="accountType_utangSewaJangkaPanjang">
+          <field name="name">Utang Sewa Jangka Panjang</field>
+          <field name="code">UTANG.SEWA.JANGKA.PANJANG</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_promes">
+          <field name="name">Promes</field>
+          <field name="code">PROMES</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_premiAsuransiPensiun">
+          <field name="name">Premi Asuransi Pensiun</field>
+          <field name="code">PREMI.ASURANSI.PENSIUN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_liabilitasPajakTangguhan">
+          <field name="name">Liabilitas Pajak Tangguhan</field>
+          <field name="code">LIABILITAS.PAJAK.TANGGUHAN</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_utangDagang">
+          <field name="name">Utang Dagang</field>
+          <field name="code">UTANG.DAGANG</field>
+          <field name="close_method">unreconciled</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_modalSaham">
+          <field name="name">Modal Saham</field>
+          <field name="code">MODAL.SAHAM</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_tambahanModalDisetor">
+          <field name="name">Tambahan Modal Disetor</field>
+          <field name="code">TAMBAHAN.MODAL.DISETOR</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_openingBalance">
+          <field name="name">Opening Balance</field>
+          <field name="code">OPENING.BALANCE</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_deviden">
+          <field name="name">Deviden</field>
+          <field name="code">DEVIDEN</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_prive">
+          <field name="name">Prive</field>
+          <field name="code">PRIVE</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+       
+        <record model="account.account.type" id="accountType_labaTahunBerjalan">
+          <field name="name">Laba/Tahun Berjalan</field>
+          <field name="code">LABA.RUGI.BERJALAN</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_labaDitahan">
+          <field name="name">Laba Ditahan</field>
+          <field name="code">LABA.DITAHAN</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_akumulasiLabaRugi">
+          <field name="name">Akumulasi Laba/Rugi Komprehensif Lain</field>
+          <field name="code">AKUMULASI.LABA.RUGI</field>
+          <field name="close_method">balance</field>
+          <field name="report_type">liability</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_penjualan">
+          <field name="name">Penjualan</field>
+          <field name="code">PENJUALAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">income</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_returPenjualan">
+          <field name="name">Retur Penjualan</field>
+          <field name="code">RETUR.PENJUALAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">income</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_diskon">
+          <field name="name">Diskon Penjualan</field>
+          <field name="code">DISKON.PENJUALAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">income</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pendapatanLain">
+          <field name="name">Pendapatan Lain-lain</field>
+          <field name="code">PENDAPATAN.LAIN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">income</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaBuruhPabrik">
+          <field name="name">Biaya Buruh Pabrik</field>
+          <field name="code">BIAYA.BURUH.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanPersonelLangsung">
+          <field name="name">Beban Personel Langsung</field>
+          <field name="code">BEBAN.PERSONEL.LANGSUNG</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_cogsLain">
+          <field name="name">COGS Lain</field>
+          <field name="code">COGS.LAIN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pembelianBarang">
+          <field name="name">Pembelian Barang</field>
+          <field name="code">PEMBELIAN.BARANG</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_pembelianJasa">
+          <field name="name">Pembelian Jasa</field>
+          <field name="code">PEMBELIAN.JASA</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaSampling">
+          <field name="name">Biaya Sampling</field>
+          <field name="code">BIAYA.SAMPLING</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPacking">
+          <field name="name">Biaya Packing</field>
+          <field name="code">BIAYA.PACKING</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaShipping">
+          <field name="name">Biaya Shipping</field>
+          <field name="code">BIAYA.SHIPPING</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanBangunanPabrik">
+          <field name="name">Biaya Penyusutan Bangunan Pabrik</field>
+          <field name="code">BIAYA.PENYUSUTAN.BANGUNAN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanBangunanPabrik">
+          <field name="name">Biaya Pemeliharaan Bangunan Pabrik</field>
+          <field name="code">BIAYA.PEMELIHARAAN.BANGUNAN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanMesinPabrik">
+          <field name="name">Biaya Penyusutan Mesin Pabrik</field>
+          <field name="code">BIAYA.PENYUSUTAN.MESIN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanMesinPabrik">
+          <field name="name">Biaya Pemeliharaan Mesin Pabrik</field>
+          <field name="code">BIAYA.PEMELIHARAAN.MESIN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanPeralatanPabrik">
+          <field name="name">Biaya Penyusutan Peralatan Pabrik</field>
+          <field name="code">BIAYA.PENYUSUTAN.PERALATAN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanPeralatanPabrik">
+          <field name="name">Biaya Pemeliharaan Peralatan Pabrik</field>
+          <field name="code">BIAYA.PEMELIHARAAN.PERALATAN.PABRIK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaKaryawan">
+          <field name="name">Biaya Karyawan</field>
+          <field name="code">BIAYA.KARYAWAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaAdministrasiUmum">
+          <field name="name">Biaya Administrasi Umum</field>
+          <field name="code">BIAYA.ADMINISTRASI.UMUM</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaStationarySupplies">
+          <field name="name">Biaya Stationary &amp; Supplies</field>
+          <field name="code">BIAYA.STATIONARY.SUPPLIES</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanBangunanKantor">
+          <field name="name">Biaya Penyusutan Bangunan Kantor</field>
+          <field name="code">BIAYA.PENYUSUTAN.BANGUNAN.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanBangunanKantor">
+          <field name="name">Biaya Pemeliharaan Bangunan Kantor</field>
+          <field name="code">BIAYA.PEMELIHARAAN.BANGUNAN.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanFurnitureKantor">
+          <field name="name">Biaya Penyusutan Furniture Kantor</field>
+          <field name="code">BIAYA.PENYUSUTAN.FURNITURE.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanFurnitureKantor">
+          <field name="name">Biaya Pemeliharaan Furniture Kantor</field>
+          <field name="code">BIAYA.PEMELIHARAAN.FURNITURE.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPenyusutanPeralatanKantor">
+          <field name="name">Biaya Penyusutan Peralatan Kantor</field>
+          <field name="code">BIAYA.PENYUSUTAN.PERALATAN.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPemeliharaanPeralatanKantor">
+          <field name="name">Biaya Pemeliharaan Peralatan Kantor</field>
+          <field name="code">BIAYA.PEMELIHARAAN.PERALATAN.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanPemeliharaanAsetKantor">
+          <field name="name">Beban Pemeliharaan Aset Kantor</field>
+          <field name="code">Beban.PEMELIHARAAN.ASET.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanPenyusutanAsetKantor">
+          <field name="name">Beban Penyusutan Aset Kantor</field>
+          <field name="code">BEBAN.PENYUSUTAN.ASET.KANTOR</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanMISP">
+          <field name="name">Beban Materai, Iuran, Sumbangan dan Perizinan</field>
+          <field name="code">BEBAN.MISP</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaAsuransi">
+          <field name="name">Biaya Asuransi</field>
+          <field name="code">BIAYA.ASURANSI</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanPajak">
+          <field name="name">Beban Pajak</field>
+          <field name="code">BEBAN.PAJAK</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_Utilitas">
+          <field name="name">Biaya Utilitas</field>
+          <field name="code">BIAYA.UTILITAS</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanEntertainmentPenjualan">
+          <field name="name">Biaya Entertainment Penjualan</field>
+          <field name="code">BEBAN.ENTERTAINMENT.PENJUALAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanTransportasiPenjualan">
+          <field name="name">Beban Transportasi Penjualan</field>
+          <field name="code">BEBAN.TRANSPORTASI.PENJUALAN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaKomunikasi">
+          <field name="name">Biaya Komunikasi</field>
+          <field name="code">BIAYA.KOMUNIKASI</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPerjalananDinas">
+          <field name="name">Biaya Perjalanan Dinas</field>
+          <field name="code">BIAYA.PERJALANAN>DINAS</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaIklanPromosi">
+          <field name="name">Biaya Iklan &amp; Promosi</field>
+          <field name="code">BIAYA.IKLAN.PROMOSI</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaPPH">
+          <field name="name">Biaya PPH</field>
+          <field name="code">BIAYA.PPH</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaBunga">
+          <field name="name">Biaya Bunga</field>
+          <field name="code">BIAYA.BUNGA</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_bebanLain">
+          <field name="name">Beban Lain-lain</field>
+          <field name="code">BEBAN.LAIN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+        <record model="account.account.type" id="accountType_biayaOperasionalLain">
+          <field name="name">Biaya Operasional Lain</field>
+          <field name="code">BIAYA.OPERASIONAL.LAIN</field>
+          <field name="close_method">none</field>
+          <field name="report_type">expense</field>
+        </record>
+
+    </data>
+</openerp>
+
