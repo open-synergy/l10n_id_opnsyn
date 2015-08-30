@@ -1,0 +1,439 @@
+id,code,name,city,state_id/id,country_id/id
+data_zip_ID55111,55111,55111,Gunung Ketur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55112,55112,55112,Purwo Kinanti,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55121,55121,55121,Prawirodirjan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55122,55122,55122,Ngupasan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55131,55131,55131,Panembahan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55132,55132,55132,Kadipaten,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55133,55133,55133,Patehan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55141,55141,55141,Suryodiningratan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55142,55142,55142,Gedongkiwo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55143,55143,55143,Mantrijeron,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55151,55151,55151,Wirogunan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55152,55152,55152,Keparakan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55153,55153,55153,Brontokusuman,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55161,55161,55161,Pandeyan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55162,55162,55162,Sorosutan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55163,55163,55163,Giwangan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55164,55164,55164,Warungboto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55165,55165,55165,Muja Muju,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55166,55166,55166,Semaki,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55167,55167,55167,Tahunan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55171,55171,55171,Rejowinangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55172,55172,55172,Prenggan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55173,55173,55173,Purbayan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55181,55181,55181,Tirtonirmolo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55182,55182,55182,Ngestiharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55183,55183,55183,Tamantirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55184,55184,55184,Bangunjiwo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55185,55185,55185,Pendowoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55186,55186,55186,Timbulharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55188,55188,55188,Bangunharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55188,55188,55188,Panggungharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55191,55191,55191,Tamanan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55192,55192,55192,Jagalan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55193,55193,55193,Singosaren,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55194,55194,55194,Wirokerten,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55195,55195,55195,Jambidan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55196,55196,55196,Potorono,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55197,55197,55197,Baturetno,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55198,55198,55198,Banguntapan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55211,55211,55211,Bausasran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55212,55212,55212,Tegal Panggung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55213,55213,55213,Suryatmajan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55221,55221,55221,Demangan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55222,55222,55222,Klitren,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55223,55223,55223,Terban,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55224,55224,55224,Kotabaru,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55225,55225,55225,Baciro,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55231,55231,55231,Bumijo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55232,55232,55232,Gowongan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55233,55233,55233,Cokrodiningratan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55241,55241,55241,Karangwaru,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55242,55242,55242,Kricak,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55243,55243,55243,Bener,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55244,55244,55244,Tegalrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55251,55251,55251,Patangpuluhan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55252,55252,55252,Wirobrajan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55253,55253,55253,Pakuncen,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55261,55261,55261,Ngampilan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55262,55262,55262,Notoprajan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidoagung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidoarum,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidokarto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidoluhur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidomoyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55264,55264,55264,Sidorejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55271,55271,55271,Sosromenduran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55272,55272,55272,Pringgokusuman,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55281,55281,55281,Catur Tunggal,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55282,55282,55282,Maguwoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55283,55283,55283,Condong Catur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55284,55284,55284,Sinduadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55285,55285,55285,Sendangadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55286,55286,55286,Tlogoadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55287,55287,55287,Tirtoadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55288,55288,55288,Sumberadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55291,55291,55291,Trihanggo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55293,55293,55293,Banyuraden,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55294,55294,55294,Ambarketawang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55295,55295,55295,Balecatur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55511,55511,55511,Tridadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55512,55512,55512,Pandowo Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55513,55513,55513,Tri Mulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55514,55514,55514,Triharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55515,55515,55515,Catur Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55551,55551,55551,Bangun Kerto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55551,55551,55551,Donokerto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55551,55551,55551,Giri Kerto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55551,55551,55551,Wono Kerto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Banyu Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Lumbung Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Margo Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Merdiko Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Moro Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Pondok Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Sumber Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55552,55552,55552,Tambak Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55561,55561,55561,Margoagung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55561,55561,55561,Margodadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55561,55561,55561,Margokaton,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55561,55561,55561,Margoluwih,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55561,55561,55561,Margomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55562,55562,55562,Sendang Arum,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55562,55562,55562,Sendang Mulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55562,55562,55562,Sendang Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55562,55562,55562,Sendangagung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55562,55562,55562,Sendangsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55563,55563,55563,Sumber Agung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55563,55563,55563,Sumberarum,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55563,55563,55563,Sumberrahayu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55563,55563,55563,Sumbersari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55571,55571,55571,Purwo Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55571,55571,55571,Selo Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55571,55571,55571,Taman Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55571,55571,55571,Tirto Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Boko Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Gayam Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Madu Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Sambi Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Sumber Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55572,55572,55572,Wukir Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55573,55573,55573,Jogo Tirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55573,55573,55573,Kali Tirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55573,55573,55573,Sendang Tirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55573,55573,55573,Tegal Tirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Donoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Minomartani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Sardonoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Sari Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Sinduharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55581,55581,55581,Suko Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55582,55582,55582,Candi Binangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55582,55582,55582,Hargo Binangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55582,55582,55582,Harjo Binangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55582,55582,55582,Pakem Binangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55582,55582,55582,Purwo Binangun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55583,55583,55583,Argo Mulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55583,55583,55583,Glagah Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55583,55583,55583,Kepuh Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55583,55583,55583,Umbul Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55583,55583,55583,Wukir Sari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55584,55584,55584,Bimo Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55584,55584,55584,Sindumartani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55584,55584,55584,Umbulmartani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55584,55584,55584,Wedomartani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55584,55584,55584,Widodo Martani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55592,55592,55592,Nogotirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Bendungan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Giri Peni,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Karang Wuni,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Kulwaru,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Ngestiharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Sogan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Triharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55651,55651,55651,Wates,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Karangsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Kedungsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Margosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Pengasih,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Sendangsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Sidomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55652,55652,55652,Tawangsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55653,55653,55653,Hargomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55653,55653,55653,Hargorejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55653,55653,55653,Hargotirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55653,55653,55653,Hargowilis,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55653,55653,55653,Kalirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Demen,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Glagah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Jangkaran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Janten,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Kali Dengen,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Kaligintung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Karang Wuluh,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Kebonrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Kedundang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Kulur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Palihan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Plumbon,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Sindutan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Temon Kulon,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55654,55654,55654,Temon Wetan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Bojong,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Bugel,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Cerme,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Depok,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Garongan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Gotakan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Kanoman,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Krembangan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Panjatan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Pleret,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55655,55655,55655,Tayuban,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Banaran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Brosot,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Karang Sewu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Kranggan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Nomporejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Pandowan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55661,55661,55661,Tirta Rahayu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Bumirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Gulurejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Jatirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Ngentakrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Sidorejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55663,55663,55663,Wahyuharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Banguncipto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Demangrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Kaliagung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Salamrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Sentolo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Srikayangan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Sukoreno,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55664,55664,55664,Tuksono,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Banyuroto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Donomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Jati Sarono,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Kembang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Tanjungharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55671,55671,55671,Wijimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55672,55672,55672,Banjararum,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55672,55672,55672,Banjarasri,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55672,55672,55672,Banjarharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55672,55672,55672,Banjaroyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Banjarsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Gerbosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Kebon Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Ngargosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Pagerharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Purwoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55673,55673,55673,Sidoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55674,55674,55674,Giripurwo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55674,55674,55674,Jatimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55674,55674,55674,Pendoworejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55674,55674,55674,Purwosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55711,55711,55711,Bantul,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55712,55712,55712,Ringin Harjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55713,55713,55713,Palbapang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55714,55714,55714,Trirenggo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55715,55715,55715,Sabdodadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55751,55751,55751,Guwosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55751,55751,55751,Sendangsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55751,55751,55751,Triwidadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55752,55752,55752,Argodadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55752,55752,55752,Argomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55752,55752,55752,Argorejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55752,55752,55752,Argosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55761,55761,55761,Caturharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55761,55761,55761,Gilangharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55761,55761,55761,Triharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55761,55761,55761,Wijirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55762,55762,55762,Poncosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55762,55762,55762,Trimurti,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55763,55763,55763,Gadingharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55763,55763,55763,Gadingsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55763,55763,55763,Murtigading,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55763,55763,55763,Srigading,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55764,55764,55764,Mulyodadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55764,55764,55764,Sidomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55764,55764,55764,Sumbermulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55771,55771,55771,Panjangrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55771,55771,55771,Seloharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55771,55771,55771,Srihardono,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55772,55772,55772,Donotirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55772,55772,55772,Parangtritis,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55772,55772,55772,Tirtohargo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55772,55772,55772,Tirtomulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55772,55772,55772,Tirtosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55781,55781,55781,Canden,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55781,55781,55781,Patalan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55781,55781,55781,Sumber Agung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55781,55781,55781,Trimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Girirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Imogiri,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Karang Tengah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Karangtalun,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Kebon Agung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Selopamioro,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Sriharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55782,55782,55782,Wukirsari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Dlingo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Jatimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Mangunan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Muntuk,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Temuwuh,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55783,55783,55783,Terong,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55791,55791,55791,Bawuran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55791,55791,55791,Pleret,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55791,55791,55791,Segoroyoso,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55791,55791,55791,Wonokromo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55791,55791,55791,Wonolelo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55792,55792,55792,Sitimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55792,55792,55792,Srimartani,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55792,55792,55792,Srimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55811,55811,55811,Baleharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55813,55813,55813,Kepek,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Duwet,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Gari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Karang Rejek,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Karang Tengah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Mulo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Piyaman,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Pulutan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Selang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Siraman,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Wareng,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Wonosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55851,55851,55851,Wunung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Katongan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Kedung Keris,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Kedungpoh,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Natah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Nglipar,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Pengkol,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55852,55852,55852,Pilang Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Beji,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Jurang Jero,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Kampung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Sambirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Tancep,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55853,55853,55853,Watu Sigar,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Bendung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Bulurejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Candi Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Kalitekuk,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Karang Sari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Kemejing,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Pundung Sari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Rejosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Semin,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55854,55854,55854,Sumberrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Banaran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Bandung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Banyusoco,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Bleberan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Dengok,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Gading,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Getas,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Logandeng,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Ngawu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Ngleri,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Ngunut,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Playen,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55861,55861,55861,Plembutan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Beji,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Bunder,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Nglanggeran,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Nglegi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Ngoro Oro,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Patuk,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Pengkok,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Putat,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Salam,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Semoyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55862,55862,55862,Terbah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Hargo Mulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Mertelu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Ngalang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Sampang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Serut,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Tegalrejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55863,55863,55863,Watu Gajah,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Giring,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Grogol,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Jetis,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Kanigoro,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Karang Asem,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Karang Duwet,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Kepek,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Krambil Sawit,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Monggol,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Mulusan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Nglora,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Pampang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Planjan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55871,55871,55871,Sodo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giriasih,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giricahyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giriharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Girijati,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Girikarto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Girimulyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giripurwo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Girisekar,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Girisuko,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giritirto,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55872,55872,55872,Giriwungu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Banjarejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Giripanggung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Hargosari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Kemadang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Kemiri,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Ngestirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Purwodadi,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Sidoharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Sumber Wungu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55881,55881,55881,Tepus,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Balong,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Bohol,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Botodayakan (Botodayaan),l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Jepitu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Jerukwudel,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Karangawen,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Karangwuni,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Melikan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Nglindur,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Petir,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Pringombo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Pucanganom,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Pucung,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Semugih,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Songbanyu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55883,55883,55883,Tileng,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Bejiharjo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Bendungan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Gedang Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Jati Ayu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Karangmojo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Kelor,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Ngawis,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Ngipak,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55891,55891,55891,Wiladeg,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Bedoyo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Genjahan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Gombang,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Karang Asem,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Kenteng,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Ponjong,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Sawahan,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Sidorejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Sumber Giri,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Tambakromo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55892,55892,55892,Umbul Rejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55893,55893,55893,Candirejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55893,55893,55893,Dadapayu,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55893,55893,55893,Ngeposari,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55893,55893,55893,Pacarejo,l10n_id_state.data_state_indonesiaYO,base.id
+data_zip_ID55893,55893,55893,Semanu,l10n_id_state.data_state_indonesiaYO,base.id
