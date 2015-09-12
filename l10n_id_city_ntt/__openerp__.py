@@ -21,7 +21,7 @@
 ##############################################################################
 {
     'name': 'Indonesia Localization - NTT ZIP Code',
-    'summary' : 'Zip code for Nusa Tenggara Timur'
+    'summary' : 'Zip code for Nusa Tenggara Timur',
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
     'website': 'https://opensynergy-indonesia.com',
