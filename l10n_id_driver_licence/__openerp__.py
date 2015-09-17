@@ -18,8 +18,8 @@
 #
 ##############################################################################
 {
-    'name': 'Indonesia Localization - Indonesia driver licence for contact partner',
-    'summary' : 'SIM A, B1, B2, C dan D',
+    'name': 'Indonesia Localization - Indonesia driver licence',
+    'summary': 'SIM A, B1, B2, C dan D',
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
     'website': 'https://opensynergy-indonesia.com',

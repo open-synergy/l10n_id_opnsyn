@@ -26,7 +26,7 @@
     'category': 'Localization',
     'description': """
     """,
-    'depends': ['base_location','l10n_id_state'],
+    'depends': ['base_location', 'l10n_id_state'],
     'data': ['data/res.better.zip.csv'],
     'installable': True,
 }

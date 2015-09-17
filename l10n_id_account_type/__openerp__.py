@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Indonesia - Account Type',
-    'summary' : 'Account type for Indonesia accounting',
+    'summary': 'Account type for Indonesia accounting',
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
     'website': 'www.opensynergy-indonesia.com',
