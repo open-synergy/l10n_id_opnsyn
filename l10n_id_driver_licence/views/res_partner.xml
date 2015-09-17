@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+
+<record id="form_resPartner_KTP" model="ir.ui.view">
+    <field name="name">KTP number addition for partner form</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="opnsynid_partner_identification_number.form_resPartner_identificationNumber"/>
+    <field name="priority">2</field>
+    <field name="arch" type="xml">
+        <data>
+            <xpath expr="//group[@name='identification_number_group']" position="inside">
+                <!-- SIM A -->
+                <label for="sim_a"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_a"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_a_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <!-- SIM B1 -->
+                <label for="sim_b1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_b1"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_b1_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <!-- SIM B2 -->
+                <label for="sim_b2"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_b2"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_b2_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <!-- SIM C -->
+                <label for="sim_c"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_c"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_c_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <!-- SIM D -->
+                <label for="sim_d"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_d"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="sim_d_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+            </xpath>
+        </data>
+  </field>
+</record>
+
+</data>
+</openerp>

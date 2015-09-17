@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+
+<record id="form_resPartner_KTP" model="ir.ui.view">
+    <field name="name">KTP number addition for partner form</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="opnsynid_partner_identification_number.form_resPartner_identificationNumber"/>
+    <field name="priority">2</field>
+    <field name="arch" type="xml">
+        <data>
+            <xpath expr="//group[@name='identification_number_group']" position="inside">
+                <label for="ktp"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="ktp"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+                <field name="ktp_expired_date"
+                    nolabel="1"
+                    attrs="{'invisible':[('is_company','=',True)]}"
+                    />
+            </xpath>
+        </data>
+  </field>
+</record>
+
+</data>
+</openerp>
