@@ -14,5 +14,5 @@
 # To provide both the URL and a branch, use:
 # sale-workflow https://github.com/OCA/sale-workflow branchname
 
-partner-contact https://github.com/OCA/partner-contact/8.0
-opnsynid_partner https://github.com/open-synergy/opnsynid_partner/8.0
+partner-contact https://github.com/OCA/partner-contact 8.0
+opnsynid_partner https://github.com/open-synergy/opnsynid_partner 8.0
