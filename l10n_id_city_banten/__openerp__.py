@@ -22,7 +22,7 @@
     'summary': "Banten's zip code",
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
-    'website': 'opensynergy-indonesia.com',
+    'website': 'https://opensynergy-indonesia.com',
     'category': 'Localization',
     'description': """
     """,

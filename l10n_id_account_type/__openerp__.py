@@ -22,7 +22,7 @@
     'summary': 'Account type for Indonesia accounting',
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
-    'website': 'www.opensynergy-indonesia.com',
+    'website': 'https://opensynergy-indonesia.com',
     'category': 'Localization',
     'description': """
     """,
