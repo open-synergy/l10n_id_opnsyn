@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Indonesia Localization - Jambi ZIP Code',
-    'summay': "Jambi's zip code',
+    'summay': "Jambi's zip code",
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
     'website': 'https://opensynergy-indonesia.com',
