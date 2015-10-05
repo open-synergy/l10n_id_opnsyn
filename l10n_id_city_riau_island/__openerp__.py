@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Indonesia Localization - Riau Island ZIP Code',
-    'summary': "Riau Island's zip code',
+    'summary': "Riau Island's zip code",
     'version': '1.0',
     'author': 'OpenSynergy Indonesia',
     'website': 'https://opensynergy-indonesia.com',
