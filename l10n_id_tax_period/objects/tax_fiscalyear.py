@@ -23,6 +23,7 @@ class Fiscalyear(models.Model):
     Tax fiscalyear
     """
 
+
     _name = 'tax.fiscalyear'
     _description = __doc__
 
