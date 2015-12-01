@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-##############################################################################
 #
 #    OpenERP, Open Source Management Solution
 #    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>). All Rights Reserved
@@ -20,7 +19,7 @@
 ##############################################################################
 from openerp import models, fields
 
-class Fiscalyear(models.model):
+class Fiscalyear(models.Model):
     _name = 'tax.fiscal_year'
     _description = 'Tax Fiscalyear'
     _columns = {
@@ -50,4 +49,3 @@ class Fiscalyear(models.model):
         }
 
 Fiscalyear()
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

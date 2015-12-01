@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-##############################################################################
 #
 #    OpenERP, Open Source Management Solution
 #    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>). All Rights Reserved
@@ -21,7 +20,7 @@
 from openerp import models, fields
 
 
-class TaxPeriod(models.model):
+class TaxPeriod(models.Model):
     _name = 'tax.period'
     _description = 'Tax Period'
 
@@ -71,4 +70,3 @@ class TaxPeriod(models.model):
         }
 
 TaxPeriod()
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
