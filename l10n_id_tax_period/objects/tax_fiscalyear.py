@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
@@ -18,10 +18,9 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from osv import fields, osv
+from openerp import models, fields
 
-
-class fiscal_year(osv.osv):
+class Fiscalyear(models.model):
     _name = 'tax.fiscal_year'
     _description = 'Tax Fiscalyear'
     _columns = {
@@ -50,5 +49,5 @@ class fiscal_year(osv.osv):
             ),
         }
 
-fiscal_year()
+Fiscalyear()
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

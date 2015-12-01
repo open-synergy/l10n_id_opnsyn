@@ -24,8 +24,6 @@
     'author': 'OpenSynergy Indonesia',
     'category': 'Tax',
     'summary': 'Manage Indonesia taxform',
-    'description': """
-    """,
     'website': 'https://opensynergy-indonesia.com',
     'images': [],
     'depends': ['base'],
@@ -35,6 +33,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
-    'licence': 'AGPL-3',
+    'license': 'AGPL-3',
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

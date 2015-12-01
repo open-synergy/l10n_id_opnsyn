@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
@@ -18,12 +18,10 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from osv import fields, osv
-from datetime import datetime
-from openerp.tools.translate import _
+from openerp import models, fields
 
 
-class tax_period(osv.osv):
+class TaxPeriod(models.model):
     _name = 'tax.period'
     _description = 'Tax Period'
 
@@ -72,32 +70,5 @@ class tax_period(osv.osv):
         'state': default_state,
         }
 
-    def find(self, cr, uid, date=None, context=None):
-        obj_tax_period = self.pool.get('tax.period')
-
-        if context is None:
-            context = {}
-
-        if not date:
-            date = datetime.now().strftime('%Y-%m-%d')
-
-        criteria = [
-            ('date_start', '<=', date),
-            ('date_end', '>=', date),
-            ]
-
-        tax_period_ids = obj_tax_period.search(
-            cr,
-            uid,
-            criteria,
-            context=context
-            )
-
-        if not tax_period_ids:
-            warning = _('No tax period defined for %s') % (date)
-            raise osv.except_osv(_('Warning!'), warning)
-
-        return tax_period_ids
-
-tax_period()
+TaxPeriod()
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
