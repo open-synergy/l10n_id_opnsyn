@@ -24,49 +24,38 @@ class TaxPeriod(models.Model):
     _name = 'tax.period'
     _description = 'Tax Period'
 
-    def default_state(self, cr, uid, context={}):
-        return 'draft'
-
-    _columns = {
-        'name': fields.char(
-            string='Tax Period',
-            size=30,
-            required=True,
-            ),
-        'code': fields.char(
-            string='Code',
-            size=30,
-            required=True,
-            ),
-        'tax_fiscalyear_id': fields.many2one(
-            obj='tax.fiscal_year',
-            string='Tax Fiscalyear',
-            required=True,
-            ),
-        'date_start': fields.date(
-            string='Date start',
-            required=True,
-            ),
-        'date_end': fields.date(
-            string='Date End',
-            required=True,
-            ),
-        'sequence': fields.integer(
-            string='Sequence',
-            ),
-        'state': fields.selection(
-            selection=[
-                ('draft', 'Draft'),
-                ('open', 'Open'),
-                ('close', 'Closed')
-                ],
-            string='Status',
-            readonly=True,
-            ),
-        }
-
-    _defaults = {
-        'state': default_state,
-        }
-
-TaxPeriod()
+    name = fields.char(
+        string='Tax Period',
+        size=30,
+        required=True,
+        )
+    code = fields.char(
+        string='Code',
+        size=30,
+        required=True,
+        )
+    tax_fiscalyear_id = fields.many2one(
+        obj='tax.fiscal_year',
+        string='Tax Fiscalyear',
+        required=True,
+        )
+    date_start = fields.date(
+        string='Date start',
+        required=True,
+        )
+    date_end = fields.date(
+        string='Date End',
+        required=True,
+        )
+    sequence = fields.integer(
+        string='Sequence',
+        )
+    state = fields.selection(
+        selection=[
+            ('draft', 'Draft'),
+            ('open', 'Open'),
+            ('close', 'Closed')
+            ],
+        string='Status',
+        readonly=True,
+        )

@@ -20,32 +20,33 @@
 from openerp import models, fields
 
 class Fiscalyear(models.Model):
-    _name = 'tax.fiscal_year'
-    _description = 'Tax Fiscalyear'
-    _columns = {
-        'name': fields.char(
-            string='Fiscalyear',
-            size=30,
-            required=True,
-            ),
-        'code': fields.char(
-            string='Code',
-            size=10,
-            required=True,
-            ),
-        'date_start': fields.date(
-            string='Date Start',
-            required=True,
-            ),
-        'date_end': fields.date(
-            string='Tanggal Akhir',
-            required=True,
-            ),
-        'period_ids': fields.one2many(
-            obj='tax.period',
-            fields_id='tax_fiscalyear_id',
-            string='Tax Period',
-            ),
-        }
+    """
+    Tax fiscalyear
+    """
 
-Fiscalyear()
+    _name = 'tax.fiscal_year'
+    _description = __doc__
+
+    name = fields.Char(
+        string='Fiscalyear',
+        size=30,
+        required=True,
+        )
+    code = fields.Char(
+        string='Code',
+        size=10,
+        required=True,
+        )
+    date_start = fields.Date(
+        string='Date Start',
+        required=True,
+        )
+    date_end = fields.Date(
+        string='Tanggal Akhir',
+        required=True,
+        )
+    period_ids = fields.One2many(
+        obj='tax.period',
+        fields_id='tax_fiscalyear_id',
+        string='Tax Period',
+        )
