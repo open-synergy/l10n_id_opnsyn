@@ -23,7 +23,7 @@ class Fiscalyear(models.Model):
     Tax fiscalyear
     """
 
-    _name = 'tax.fiscal_year'
+    _name = 'tax.fiscalyear'
     _description = __doc__
 
     name = fields.Char(

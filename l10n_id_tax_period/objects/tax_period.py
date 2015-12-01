@@ -34,7 +34,7 @@ class TaxPeriod(models.Model):
         required=True,
         )
     tax_fiscalyear_id = fields.Many2one(
-        comodel_name='tax.fiscal_year',
+        comodel_name='tax.fiscalyear',
         string='Tax Fiscalyear',
         required=True,
         )
