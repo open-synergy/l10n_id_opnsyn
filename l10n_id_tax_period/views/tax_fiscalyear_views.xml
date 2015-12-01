@@ -85,6 +85,13 @@
             <field name="view_id" ref="form_taxFiscalyear"/>
             <field name="act_window_id" ref="waction_taxFiscalyear"/>
         </record>
+
+        <menuitem
+            name="Tax Fiscalyear"
+            id="menu_taxFiscalyear"
+            parent="account.next_id_27"
+            action="waction_taxFiscalyear"
+            />
     </data>
 </openerp>
 

@@ -25,7 +25,7 @@
     'summary': 'Manage Indonesia taxform',
     'website': 'https://opensynergy-indonesia.com',
     'images': [],
-    'depends': ['base'],
+    'depends': ['account'],
     'data': [
         'views/tax_fiscalyear_views.xml',
         ],
