@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="tree_taxFiscalyear" model="ir.ui.view">
+            <field name="name">Tree Tax Fiscalyear</field>
+            <field name="model">tax.fiscalyear</field>
+            <field name="arch" type="xml">
+                <tree string="Tax Fiscalyear">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="date_start"/>
+                    <field name="date_end"/>
+                </tree>
+            </field>
+        </record>
+            
+        <record id="form_taxFiscalyear" model="ir.ui.view">
+            <field name="name">Form Tax Fiscalyear</field>
+            <field name="model">tax.fiscalyear</field>
+            <field name="arch" type="xml">
+                <form string="Fiscal Year">
+                    <group name="group_1" col="2" colspan="4">
+                        <group name="group_1_1" col="2" colspan="1">
+                            <field name="name"/>
+                            <field name="code"/>                        
+                        </group>
+                        <group name="group_1_2" col="2" colspan="1">
+                            <field name="date_start"/>
+                            <field name="date_end"/>
+                        </group>
+                    </group>
+                    <notebook colspan="4">
+                        <page string="Tax Period">
+                            <field name="period_ids" nolabel="1" colspan="4">
+                                <tree string="Tax Period" editable="bottom" mode="tree">
+                                    <field name="name"/>
+                                    <field name="code"/>
+                                    <field name="date_start"/>
+                                    <field name="date_end"/>
+                                    <field name="sequence"/>
+                                    <field name="state"/>
+                                </tree>
+                            </field>
+                        </page>
+                    </notebook>
+                </form>
+            </field>
+        </record>
+
+        <record id="search_taxFiscalyear" model="ir.ui.view">
+            <field name="name">Search Fiscal Year</field>
+            <field name="model">tax.fiscalyear</field>
+            <field name="arch" type="xml">
+                <search string="Tax Fiscal Year">
+                    <field name="name"/>
+                    <field name="code"/>
+               </search>
+            </field>
+        </record>
+
+        <record id="waction_taxFiscalyear" model="ir.actions.act_window">
+            <field name="name">Tax Fiscal Year</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">tax.fiscalyear</field>
+            <field name="view_type">form</field>
+            <field name="search_view_id" ref="waction_taxFiscalyear"/>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+              <p class="oe_view_nocontent_create">
+                Click to create a tax fiscal year
+              </p>
+            </field>
+        </record>
+        
+        <record id="wactionView_treeTaxFiscalyear" model="ir.actions.act_window.view">
+            <field eval="10" name="sequence"/>
+            <field name="view_mode">tree</field>
+            <field name="view_id" ref="tree_taxFiscalyear"/>
+            <field name="act_window_id" ref="waction_taxFiscalyear"/>
+        </record>
+
+        <record id="wactionView_pajak_formTaxFiscalyear" model="ir.actions.act_window.view">
+            <field eval="20" name="sequence"/>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="form_taxFiscalyear"/>
+            <field name="act_window_id" ref="waction_taxFiscalyear"/>
+        </record>
+    </data>
+</openerp>
+
