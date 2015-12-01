@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-#
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>). All Rights Reserved
-#
+#    Author : Andhitia Rama, Michael Viriyananda, Nurazmi
+#    Copyright (C) 2015 OpenSynergy Indonesia
+
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
@@ -24,33 +23,33 @@ class TaxPeriod(models.Model):
     _name = 'tax.period'
     _description = 'Tax Period'
 
-    name = fields.char(
+    name = fields.Char(
         string='Tax Period',
         size=30,
         required=True,
         )
-    code = fields.char(
+    code = fields.Char(
         string='Code',
         size=30,
         required=True,
         )
-    tax_fiscalyear_id = fields.many2one(
-        obj='tax.fiscal_year',
+    tax_fiscalyear_id = fields.Many2one(
+        comodel_name='tax.fiscal_year',
         string='Tax Fiscalyear',
         required=True,
         )
-    date_start = fields.date(
+    date_start = fields.Date(
         string='Date start',
         required=True,
         )
-    date_end = fields.date(
+    date_end = fields.Date(
         string='Date End',
         required=True,
         )
-    sequence = fields.integer(
+    sequence = fields.Integer(
         string='Sequence',
         )
-    state = fields.selection(
+    state = fields.Selection(
         selection=[
             ('draft', 'Draft'),
             ('open', 'Open'),

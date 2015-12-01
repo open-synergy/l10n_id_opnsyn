@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-#
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>). All Rights Reserved
-#
+#    Author : Andhitia Rama, Michael Viriyananda, Nurazmi
+#    Copyright (C) 2015 OpenSynergy Indonesia
+
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
@@ -46,7 +45,7 @@ class Fiscalyear(models.Model):
         required=True,
         )
     period_ids = fields.One2many(
-        obj='tax.period',
-        fields_id='tax_fiscalyear_id',
+        comodel_name='tax.period',
+        inverse_name='tax_fiscalyear_id',
         string='Tax Period',
         )
