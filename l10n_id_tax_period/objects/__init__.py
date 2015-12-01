@@ -18,6 +18,6 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-import tahun_pajak
-import masa_pajak
+import tax_fiscalyear
+import tax_period
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
