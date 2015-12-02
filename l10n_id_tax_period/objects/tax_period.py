@@ -58,3 +58,10 @@ class TaxPeriod(models.Model):
         string='Status',
         readonly=True,
         )
+    company_id = fields.Related(
+        'tax_fiscalyear_id',
+        'company_id',
+        type='many2one',
+        comodel_name='res.company',
+        store=True,
+        )

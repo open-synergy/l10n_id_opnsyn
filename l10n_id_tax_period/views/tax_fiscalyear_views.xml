@@ -8,6 +8,7 @@
                 <tree string="Tax Fiscalyear">
                     <field name="name"/>
                     <field name="code"/>
+                    <field name="company_id" groups="base.group_multi_company"/>
                     <field name="date_start"/>
                     <field name="date_end"/>
                 </tree>
@@ -23,6 +24,7 @@
                         <group name="group_1_1" col="2" colspan="1">
                             <field name="name"/>
                             <field name="code"/>                        
+                            <field name="company_id" groups="base.group_multi_company"/>
                         </group>
                         <group name="group_1_2" col="2" colspan="1">
                             <field name="date_start"/>
@@ -54,6 +56,7 @@
                 <search string="Tax Fiscal Year">
                     <field name="name"/>
                     <field name="code"/>
+                    <field name="company_id"/>
                </search>
             </field>
         </record>

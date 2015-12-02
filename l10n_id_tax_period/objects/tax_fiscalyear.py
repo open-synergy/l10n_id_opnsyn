@@ -50,3 +50,8 @@ class Fiscalyear(models.Model):
         inverse_name='tax_fiscalyear_id',
         string='Tax Period',
         )
+    company_id = fields.Many2one(
+        string='Company',
+        comodel_name='res.company',
+        required=True,
+        )
