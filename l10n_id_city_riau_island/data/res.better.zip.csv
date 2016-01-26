@@ -1,0 +1,416 @@
+id,code,name,city,state_id/id,country_id/id
+data_zip_ID29111,29111,29111,Bukit Cermin,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29111,29111,29111,Senggarang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29111,29111,29111,Tanjung Pinang Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29112,29112,29112,Kemboja,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29113,29113,29113,Kampung Baru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29113,29113,29113,Tanjung Pinang Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29114,29114,29114,Penyengat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29115,29115,29115,Kampung Bugis,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29122,29122,29122,Air Raja,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29122,29122,29122,Kampung Bulang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29122,29122,29122,Pinang Kencana,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29122,29122,29122,Tanjung Pinang Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29122,29122,29122,Tanjung Unggat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29123,29123,29123,Melayu Kota Piring,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29124,29124,29124,Dompak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29124,29124,29124,Sei Jang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29124,29124,29124,Tanjung Ayun Sakti,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29125,29125,29125,Batu IX (Sembilan),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29132,29132,29132,Tembeling,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29132,29132,29132,Tembeling Tanjung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29133,29133,29133,Bintan Buyu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29134,29134,29134,Penaga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29135,29135,29135,Pengujan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29136,29136,29136,Pangkil,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Air Glubi/Gelubi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Dendun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Gunung Kijang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Gunung Lengkuas,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Kawal,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Kelong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Kijang Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Malang Rapat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Mantang Baru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Mantang Besar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Mantang Lama,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Mapur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Numbing,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Sungai Enam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Sungai Lekop,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Teluk Bakau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Toapaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Toapaya Asri,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Toapaya Selatan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29151,29151,29151,Toapaya Utara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Berakit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Busung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Ekang Anculai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Kota Baru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Kuala Sempang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Lancang Kuning,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Pengudang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Sebung/Sebong Lagoi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Sebung/Sebong Pereh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Sri Bintan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Tanjung Permai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Tanjung Uban Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Tanjung Uban Selatan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Tanjung Uban Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Tanjung Uban Utara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Teluk Lobam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29152,29152,29152,Teluk Sasah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Batu Lepuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Kampung Hilir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Kampung Melayu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Kukup,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Pengikik,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Pulau Mentebung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Pulau Pinang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29193,29193,29193,Teluk Sekuni,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29412,29412,29412,Pemping,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29413,29413,29413,Kasu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29414,29414,29414,Pecong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29416,29416,29416,Pulau Terong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29416,29416,29416,Sekanak Raya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29416,29416,29416,Tanjung Sari,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29422,29422,29422,Kibing,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29424,29424,29424,Tanjung Uncang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29425,29425,29425,Tanjung Riau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29425,29425,29425,Tiban Lama,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29426,29426,29426,Tiban Baru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29426,29426,29426,Tiban Indah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29427,29427,29427,Patam Lestari,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29428,29428,29428,Sungai Harapan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29428,29428,29428,Tanjung Pinggir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29431,29431,29431,Baloi Permai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29432,29432,29432,Baloi Indah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29432,29432,29432,Sadai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29432,29432,29432,Sukajadi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29432,29432,29432,Taman Baloi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29432,29432,29432,Tanjung Buntung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29433,29433,29433,Muka Kuning,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29433,29433,29433,Sungai Panas,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29437,29437,29437,Duriangka,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29437,29437,29437,Mangsang (Mangsa),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29437,29437,29437,Tanjung Piayu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29438,29438,29438,Bukit Tempayan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29438,29438,29438,Buliang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Sagulung Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Sungai Binti,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Sungai Langkai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Sungai Lekop,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Sungai Pelenggut/Pelunggut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29439,29439,29439,Tembesi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29441,29441,29441,Batu Selicin,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29443,29443,29443,Kampung Pelita,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29444,29444,29444,Lubuk Baja Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29445,29445,29445,Tanjung Uma,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29452,29452,29452,Batu Merah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29453,29453,29453,Sungai Jodoh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29453,29453,29453,Tanjung Sengkuang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29454,29454,29454,Kampung Seraya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29458,29458,29458,Bengkong Indah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29458,29458,29458,Bengkong Laut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29461,29461,29461,Teluk Tering,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29464,29464,29464,Belian,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29465,29465,29465,Sambau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29466,29466,29466,Batu Besar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29467,29467,29467,Kabil,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29468,29468,29468,Ngenang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29471,29471,29471,Bulang Lintang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29472,29472,29472,Pulau Buluh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29473,29473,29473,Pantai Gelam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29474,29474,29474,Batu Legong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29475,29475,29475,Temoyong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29476,29476,29476,Pulau Setokok,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29481,29481,29481,Sembulang (Pulau Rempang),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29482,29482,29482,Rempang Cate,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29483,29483,29483,Air Raja,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29483,29483,29483,Subang Mas,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29484,29484,29484,Galang Baru (Pulau),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29485,29485,29485,Sijantung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29486,29486,29486,Karas (Pulau Karas),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29487,29487,29487,Pulau Abang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Lubuk Semut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Parit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Selat Mendaun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Sungai Lakam Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Sungai Lakam Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Tanjung Balai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Tanjung Balai Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Teluk Air,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29661,29661,29661,Tulang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Alai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Batu Limau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Degong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Gading Sari,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Gemuruh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Kundur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Lebuh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Lubuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Ngal,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Penarah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Perayun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sawang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sawang Laut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sawang Selatan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sebele,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sebesi (Sei Sebesi),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sei/Sungai Asam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sei/Sungai Ungar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sei/Sungai Ungar Utara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Sungai Buluh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Tanjung Batu Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Tanjung Batu Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Tanjung Berlian Barat (Urung Barat),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Tanjung Berlian Kota (Urung),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Tebias,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29662,29662,29662,Teluk Radang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Buluh Patah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Harjosari,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Jang (Pulau Jang),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Kapling,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Keban,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Moro,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Moro Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Niur Permai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Pamak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Pauh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Pongkar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Pulaumoro,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Rawajaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Selat Mie,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Sugie,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Tanjung Pelanduk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Tebing,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29663,29663,29663,Teluk Uma,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Baran Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Baran Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Buru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Darussalam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Durai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Lubuk Puding,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Meral Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Pangke,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Pangke Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Pasir Benut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Pasir Panjang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Sanglar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Sei/Sungai Raya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Simembang (Semembang),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Sungai Pasir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Tanjung Batu Kecil,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Tanjung Hutan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29664,29664,29664,Tanjung Kilang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Air Nusa,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Air Ringau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Arung Ayam,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Batu Berian,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Jernalik,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Kampung Hilir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Meliah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Meliah Selatan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Pangkalan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Payak (Harapan Baru),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Pulau Kerdau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Pulau Panjang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Serasan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Subi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Subi Besar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Subi Besar Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Tanjung Balau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Tanjung Setelung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29781,29781,29781,Terayak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Batubi Jaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Binjai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Gunung Putri,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Mekar Jaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Pian Tengah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Sedanau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Sedanau Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Sedarat Baru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Selaut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29782,29782,29782,Semedang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Air Asuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Air Lengit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Air Payang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Air Sena,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Bandarsyah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Batu Ampar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Batu Gajah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Bayat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Belakang Gunung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Belibak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Candi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Cemaga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Cemaga Selatan (Setegar),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Cemaga Tengah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Cemaga Utara (Singgang Bbulan),l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Ceruk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Gunung Durian,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Harapan Jaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kadur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kelanga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kelarik,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kelarik Air Mali,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kelarik Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Kelarik Utara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Ladan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Langir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Lidi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Limau Manis,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Liuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Matak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Mubur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Payalaman,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Payamaram,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Pengadah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Piabung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Piasan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Pulau Tiga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Putik,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Ranai Darat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Ranai Kota,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sabang Mawang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sabang Mawang Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sebadai Ulu / Hulu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sededap,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Selading,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Seleman,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Seluan Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sepempang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Serantas,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Setumuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Sungai Ulu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tanjung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tanjung Batang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tanjung Kumbik Utara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tanjung Pala,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tapau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Tebang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Teluk Bayur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Teluk Buton,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Teluk Labuh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Teluk Siantan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29783,29783,29783,Teluk Sunting,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Air Kumpai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Air Putih,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Batu Belanak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Gunung Jambat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Sabang Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29784,29784,29784,Sebelat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Air Bini,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Air Putih,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Batu Belah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Kiabu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Linga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Mengkait,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Munjan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Munjan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Nyamuk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Serat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Sri Tanjung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tarempa,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tarempa Barat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tarempa Barat Daya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tarempa Selatan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Telaga,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Telaga Kecil,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Temburun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tiangau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29791,29791,29791,Tiangau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Air Biru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Batu Berapit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Bukit Padi,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Genting Pulur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Impol,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Keramut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Kuala Maras,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Landak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Letung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Mampok,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Rewak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Sunggak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29792,29792,29792,Ulu Maras,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Batu Berdaun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Batu Karang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Berhala,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Berindat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Dabo,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Dabo Lama,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Kota/Kote,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Lanjut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Marok Kecil,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Pelakak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Persing,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Sedamai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Sungai Lumpur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29871,29871,29871,Tanjung Harapan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Bukit Langkap,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Daik,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Kelombok,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Kelumu,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Kerandin,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Keton,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Kudung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Mentuda,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Mepar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Merawang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Musai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Nerekeh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Panggak Darat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Panggak Laut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Pantai Harapan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Pekajang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Pekaka,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Penuba,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Penuba Timur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Sei/Sungai Pinang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29872,29872,29872,Selayar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Baran,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Batu Belubang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Benan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Cempa,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Labo,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Mamut,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Mensanak,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Pasir Panjang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Penaah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Pulau Batang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Pulau Bukit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Pulau Duyung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Pulau Medang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Rejai,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Senayang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Tajur Biru,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Tanjung Kelit,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Tanjung Lipat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29873,29873,29873,Temiang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Belungkur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Bukit Harapan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Duara,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Limbung,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Linau,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Pancur,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Rantau Panjang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Resun,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Resun Pesisir,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Sekanah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Sungai Besar,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29874,29874,29874,Teluk,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Bakong,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Bukit Belah,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Busung Panjang,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Jaqoh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Kuala Raya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Langkap,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Marok Tua,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Posek,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Raya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Suak Buaya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Sungai Buluh,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Sungai Harapan,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Sungai Raya,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Tanjung Irat,l10n_id_state.data_state_indonesiaKR,base.id
+data_zip_ID29875,29875,29875,Tinjul,l10n_id_state.data_state_indonesiaKR,base.id

@@ -185,9 +185,9 @@
           <field name="report_type">asset</field>
         </record>
 
-        <record model="account.account.type" id="accountType_utangDagang">
-          <field name="name">Utang Dagang</field>
-          <field name="code">UTANG.DAGANG</field>
+        <record model="account.account.type" id="accountType_utangUsaha">
+          <field name="name">Utang Usaha</field>
+          <field name="code">UTANG.USAHA</field>
           <field name="close_method">unreconciled</field>
           <field name="report_type">liability</field>
         </record>
@@ -248,7 +248,6 @@
           <field name="report_type">liability</field>
         </record>
 
-
         <record model="account.account.type" id="accountType_utangSewaJangkaPanjang">
           <field name="name">Utang Sewa Jangka Panjang</field>
           <field name="code">UTANG.SEWA.JANGKA.PANJANG</field>
@@ -273,13 +272,6 @@
         <record model="account.account.type" id="accountType_liabilitasPajakTangguhan">
           <field name="name">Liabilitas Pajak Tangguhan</field>
           <field name="code">LIABILITAS.PAJAK.TANGGUHAN</field>
-          <field name="close_method">unreconciled</field>
-          <field name="report_type">liability</field>
-        </record>
-
-        <record model="account.account.type" id="accountType_utangDagang">
-          <field name="name">Utang Dagang</field>
-          <field name="code">UTANG.DAGANG</field>
           <field name="close_method">unreconciled</field>
           <field name="report_type">liability</field>
         </record>
