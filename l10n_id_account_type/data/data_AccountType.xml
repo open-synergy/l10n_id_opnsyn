@@ -95,8 +95,8 @@
         </record>
 
         <record model="account.account.type" id="accountType_piutang">
-          <field name="name">Piutang Dagang</field>
-          <field name="code">PIUTANG.DAGANG</field>
+          <field name="name">Piutang Usaha</field>
+          <field name="code">PIUTANG.USAHA</field>
           <field name="close_method">unreconciled</field>
           <field name="report_type">asset</field>
         </record>
