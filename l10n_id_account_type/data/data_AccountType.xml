@@ -185,7 +185,7 @@
           <field name="report_type">asset</field>
         </record>
 
-        <record model="account.account.type" id="accountType_utangUsaha">
+        <record model="account.account.type" id="accountType_utangDagang">
           <field name="name">Utang Usaha</field>
           <field name="code">UTANG.USAHA</field>
           <field name="close_method">unreconciled</field>
